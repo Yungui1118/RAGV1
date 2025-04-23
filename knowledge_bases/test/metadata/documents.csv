@@ -1,0 +1,9 @@
+title,file_path,file_type,department,uploaded_by,upload_time,processed
+测试流程与质量保证规范.pdf,knowledge_bases\test\documents\测试流程与质量保证规范.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+代码管理与版本控制规范.pdf,knowledge_bases\test\documents\代码管理与版本控制规范.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+技术选型与架构设计文档.pdf,knowledge_bases\test\documents\技术选型与架构设计文档.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+考勤制度.pdf,knowledge_bases\test\documents\考勤制度.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+请假制度.pdf,knowledge_bases\test\documents\请假制度.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+系统维护与支持指南.pdf,knowledge_bases\test\documents\系统维护与支持指南.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+行为规范.pdf,knowledge_bases\test\documents\行为规范.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True
+研发流程规范.pdf,knowledge_bases\test\documents\研发流程规范.pdf,pdf,管理部,admin,2025-04-15 19:23:01,True

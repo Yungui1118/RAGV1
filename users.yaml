@@ -1,0 +1,49 @@
+#credentials:
+#  usernames:
+#    admin:
+#      name: 管理员
+#      password: 123
+#      department: 管理部
+#      knowledge_access: [管理部, 技术部, 市场部, 财务部]
+credentials:
+  usernames:
+    admin:
+      name: 管理员
+      password: 123
+      department: 管理部
+      knowledge_access: [管理部, 技术部, 市场部, 财务部]
+      role: 管理员  # 确保有这一行，明确设置角色为管理员
+    admin1:
+      name: 技术经理
+      password: 123
+      department: 技术部
+      knowledge_access: [管理部, 技术部]
+      role: 部门经理
+    admin2:
+      name: 市场经理
+      password: 123
+      department: 市场部
+      knowledge_access: [ 管理部, 市场部 ]
+      role: 部门经理
+    admin3:
+      name: 财务经理
+      password: 123
+      department: 财务部
+      knowledge_access: [ 管理部, 财务部 ]
+      role: 部门经理
+    # 其他用户...
+    user1:
+      name: 技术人员
+      password: 123
+      department: 技术部
+      knowledge_access: [管理部, 技术部]
+    user2:
+      name: 市场人员
+      password: 123
+      department: 市场部
+      knowledge_access: [管理部, 市场部, 技术部]
+    user3:
+      name: 财务人员
+      password: 123
+      department: 财务部
+      knowledge_access: [管理部, 财务部]
